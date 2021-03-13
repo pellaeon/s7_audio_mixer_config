@@ -3890,24 +3890,24 @@
 	<!-- Input stage volume -->
 	<!-- media input volume -->
 	<path name="gain-media-mic">
-		<ctl name="IN1R Digital Volume" value="159" />
-		<ctl name="LHPF1 Input 1 Volume" value="63" />
+		<ctl name="IN1R Digital Volume" value="157" />
+		<ctl name="LHPF1 Input 1 Volume" value="45" />
 	</path>
 
 	<path name="gain-media-2nd-mic">
-		<ctl name="IN3L Digital Volume" value="99" />
-		<ctl name="LHPF2 Input 1 Volume" value="52" />
+		<ctl name="IN3L Digital Volume" value="90" />
+		<ctl name="LHPF2 Input 1 Volume" value="35" />
 	</path>
 
 	<path name="gain-media-headset-mic">
-		<ctl name="IN2L Volume" value="34" />
-		<ctl name="IN2L Digital Volume" value="89" />
-		<ctl name="LHPF1 Input 1 Volume" value="63" />
+		<ctl name="IN2L Volume" value="33" />
+		<ctl name="IN2L Digital Volume" value="105" />
+		<ctl name="LHPF1 Input 1 Volume" value="47" />
 	</path>
 
 	<path name="gain-media-headphone-mic">
-		<ctl name="IN1R Digital Volume" value="89" />
-		<ctl name="LHPF1 Input 1 Volume" value="63" />
+		<ctl name="IN1R Digital Volume" value="81" />
+		<ctl name="LHPF1 Input 1 Volume" value="40" />
 	</path>
 
 	<path name="gain-media-bt-sco-headset-in">
